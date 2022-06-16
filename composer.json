@@ -12,5 +12,6 @@
             "homepage": "https://www.google.es",
             "role": "LifeHacker"
         }
-    ]    
+    ],
+    "version":"1.0.0"    
 }
