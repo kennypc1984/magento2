@@ -1,0 +1,17 @@
+{
+    "name": "x2o/magento2-builder",
+    "type": "template",
+    "description": "A project template to make creating modules for magento2",
+    "keywords": ["template"],
+    "homepage": "https://github.com/kennypc1984/magento2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antonio Caballero",
+            "email": "antoniomcaballero@gmail.com",
+            "homepage": "https://www.google.es",
+            "role": "LifeHacker"
+        }
+    ],
+    "version":"1.0.0"
+}
